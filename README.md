@@ -11,7 +11,7 @@ Simple and clean design with customizable styles.
 <b>How to Use</b>
 Clone the repository:
 
-git clone https://github.com/yourusername/live-clock.git
+git clone https://github.com/Anirudh-chaudhary3/Live_Clock.git
 cd live-clock
 Open the index.html file in your browser:
 
